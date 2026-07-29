@@ -1,0 +1,33 @@
+============================================================
+        SMART PARKING FACILITY REPORT
+============================================================
+Total Lots:                        2
+Total Spots:                        9
+
+Spots by Type:
+   - REGULAR: 4
+   - HANDICAPPED: 2
+   - EV: 3
+
+Spots by Status:
+   - AVAILABLE: 6
+   - OUT_OF_SERVICE: 1
+   - OCCUPIED: 2
+
+Parking Revenue:                   $198.00
+Charging Revenue:                  $10.50
+Total Revenue:                      $208.50
+
+Average Session Duration (minutes): 555.0
+Busiest Lot:                        Downtown Garage (L1) - 3 session(s)
+
+Top 3 Vehicles by Spend:
+   - XYZ789: $120.00
+   - EV1001: $34.50
+   - ABC123: $30.00
+
+Active Sessions:                    2
+Active Charging Sessions:           1
+
+Report Generated On:                2026-07-29 09:12:05
+============================================================

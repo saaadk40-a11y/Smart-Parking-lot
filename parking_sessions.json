@@ -1,0 +1,62 @@
+[
+    {
+        "session_id": "PS0001",
+        "license_plate": "ABC123",
+        "spot_id": "S1",
+        "lot_id": "L1",
+        "check_in_time": "2026-07-29T04:12:05.617690",
+        "check_out_time": "2026-07-29T09:12:05.617790",
+        "parking_fee": 30.0,
+        "status": "COMPLETED"
+    },
+    {
+        "session_id": "PS0002",
+        "license_plate": "XYZ789",
+        "spot_id": "S3",
+        "lot_id": "L1",
+        "check_in_time": "2026-07-28T06:12:05.618460",
+        "check_out_time": "2026-07-29T09:12:05.618610",
+        "parking_fee": 120.0,
+        "status": "COMPLETED"
+    },
+    {
+        "session_id": "PS0003",
+        "license_plate": "EV1001",
+        "spot_id": "S4",
+        "lot_id": "L1",
+        "check_in_time": "2026-07-29T06:12:05.619488",
+        "check_out_time": "2026-07-29T09:12:05.619664",
+        "parking_fee": 24.0,
+        "status": "COMPLETED"
+    },
+    {
+        "session_id": "PS0004",
+        "license_plate": "MOTO01",
+        "spot_id": "S6",
+        "lot_id": "L2",
+        "check_in_time": "2026-07-29T07:12:05.620376",
+        "check_out_time": "2026-07-29T09:12:05.620582",
+        "parking_fee": 24.0,
+        "status": "COMPLETED"
+    },
+    {
+        "session_id": "PS0005",
+        "license_plate": "EV2002",
+        "spot_id": "S9",
+        "lot_id": "L2",
+        "check_in_time": "2026-07-29T09:12:05.620907",
+        "check_out_time": null,
+        "parking_fee": null,
+        "status": "ACTIVE"
+    },
+    {
+        "session_id": "PS0006",
+        "license_plate": "ABC123",
+        "spot_id": "S7",
+        "lot_id": "L2",
+        "check_in_time": "2026-07-29T09:12:05.621494",
+        "check_out_time": null,
+        "parking_fee": null,
+        "status": "ACTIVE"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "charging_session_id": "CS0001",
+        "parking_session_id": "PS0003",
+        "start_time": "2026-07-29T09:12:05.619312",
+        "end_time": "2026-07-29T09:12:05.619389",
+        "start_meter": 5.0,
+        "end_meter": 35.0,
+        "energy_cost": 10.5,
+        "status": "COMPLETED"
+    },
+    {
+        "charging_session_id": "CS0002",
+        "parking_session_id": "PS0005",
+        "start_time": "2026-07-29T09:12:05.621353",
+        "end_time": null,
+        "start_meter": 0.0,
+        "end_meter": null,
+        "energy_cost": null,
+        "status": "ACTIVE"
+    }
+]
